@@ -1,1 +1,87 @@
+body{
+  width: 100%;
+  margin: 0%;
+}
+
+*{
+    font-family: "Roboto"
+}
+header, ul{
+    background-color: #1f2937 ;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    gap: 20px;
+   
+    
+}
+
+.logo{
+    display: flex;
+    font-size: 24px;
+    color: #F9FaF8;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px;
+    
+}
+
+
+#links{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+      
+}
+li{
+    list-style: none;
+    font-size: 18px;
+}
+
+a{
+    color: #E5E7Eb;
+}
+
+section{
+    padding: 40px;
+    background-color: #1f2937;
+    height: 300px;
+    
+}
+h1{
+    
+    font-size: 48px;
+    color: #F9FaF8;
+    font-weight: 900;
+    margin-right: 1300px;
+
+}
+.pone {
+    
+    font-size: 36px;
+    color: #E5E7Eb;
+    margin-right: 950px;
+
+}
+
+.botaozinho{
+    background-color: #3882f6;
+}
+
+#horas{
+    display: flex   ;
+    background-color: grey;
+    justify-content: flex-end;
+    height: 300px;
+    width: 600px;
+    margin-left: 1200px;
+    margin-top: -350px;
+}
+
+.ptwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right:150px;
+}
 
