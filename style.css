@@ -85,3 +85,86 @@ h1{
     margin-right:150px;
 }
 
+.texttwo {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.boxone{
+display: flex;
+   border: blue solid 3px;
+   height: 120px;
+   width: 120px;
+   justify-content: center;
+   margin: 500px;
+   margin-top: -10px;
+   gap: 20px;
+   
+}
+
+.boxtwo{
+display: flex;
+   border: blue solid 3px;
+   height: 120px;
+   width: 120px;
+   justify-content: center;
+   margin: 700px;
+   margin-top: -667px;
+   gap: 20px;
+   
+}
+
+.boxthree{
+display: flex;
+   border: blue solid 3px;
+   height: 120px;
+   width: 120px;
+   justify-content: center;
+   margin: 900px;
+   margin-top: -860px;
+   gap: 20px;
+   
+}
+
+.boxfour{
+display: flex;
+   border: blue solid 3px;
+   height: 120px;
+   width: 120px;
+   justify-content: center;
+   margin: 1100px;
+   margin-top: -1065px;
+   gap: 20px;
+   
+}
+
+.paragone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+.paragtwo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.paragthree {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.paragfour {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
