@@ -64,7 +64,8 @@ h1{
 
 .botaozinho{
     background-color: #3882f6;
-    border-radius: 30px;
+    border-radius: 50%;
+    border: #1f2937 solid 10px;
 }
 
 #horas{
