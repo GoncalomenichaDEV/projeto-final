@@ -12,9 +12,8 @@ header, ul{
     justify-content: space-between;
     padding: 5px;
     gap: 20px;
-   
-    
 }
+   
 
 .logo{
     display: flex;
@@ -169,4 +168,74 @@ display: flex;
 
 .paragfour {
     margin-top: 130px;
+}
+
+.textosec{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.aga2{
+   color: oklch(37.1% 0 0);
+   padding: 250px;
+   margin-left: 350px;
+   margin-right: 250px;
+
+}
+
+.anya{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -250px;
+    margin-left: 600px;
+    font-size: 18px;
+}
+
+.seccao{
+    display: block;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: oklch(68.5% 0.169 237.323);
+    margin: 50px;
+    margin-left: 450px;
+    height: 100px;
+    width: 1000px;
+    gap: 20px;
+}
+
+
+
+.par{
+    padding:40px;
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.agart{
+    padding:40px;
+    margin-left: 40px;
+    font-size: 38px;
+}
+
+.botaofe{
+    margin-left: 850px;
+    height: 50px;
+    width: 150px;
+   margin-top:-100px;
+   
+}
+
+.pe{
+    background-color:#1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+
+}
+
+.peseg{
+    color: white;
 }
