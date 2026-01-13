@@ -1,7 +1,7 @@
 body{
   width: 100%;
   margin: 0%;
-  font-family: "Roboto"
+  font-family: "Roboto";
 }
 
 
@@ -62,10 +62,15 @@ h1{
 
 }
 
+.ptwo{
+    color: white;
+}
 .botaozinho{
     background-color: #3882f6;
-    border-radius: 50%;
-    border: #1f2937 solid 10px;
+    border-radius: 10px;
+    border: #3882f6 solid 10px;
+    margin-top: -20px;
+    color: white;
 }
 
 #horas{
