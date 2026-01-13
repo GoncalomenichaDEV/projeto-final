@@ -10,7 +10,8 @@ header, ul{
     display: flex;
     justify-content: space-between;
     padding: 5px;
-    gap: 20px;
+    gap: 12px; 
+    
 }
    
 
@@ -20,7 +21,7 @@ header, ul{
     color: #F9FaF8;
     justify-content: flex-start;
     align-items: center;
-    padding: 30px;
+    padding: 50px;
     
 }
 
